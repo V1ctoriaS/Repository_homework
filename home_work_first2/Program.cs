@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Напишите программу, которая принимает на вход три числа и выдает максимальное из этих чисел
 Console.WriteLine("Введите 3 числа:");
 int num_1 = Convert.ToInt32(Console.ReadLine());
 int num_2 = Convert.ToInt32(Console.ReadLine());

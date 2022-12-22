@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Напишите программу, которая на вход принимает число и выдает, является ли число четным или нет
 Console.WriteLine("Введите число:");
 num = Convert.ToInt32(Console.ReadLine());
 
