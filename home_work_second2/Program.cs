@@ -1,29 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
-int number = ReadInt("Введите число: ");
-int count = number.ToString().Length;
-Console.Write(MakeArray(number, count));
-
-int ReadInt(string message)
+﻿// Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает 
+//вторую цифру этого числа.
+int GetNumberFromRange(int start, int end)
 {
-    Console.Write(message);
-    return Convert.ToInt32(Console.ReadLine());
+    int number = new Random().Next(start, end + 1);
+    return number;
 }
-int MakeArray(int a, int b)
+int digitSecond(int number)
 {
-int result = 0;
-    if (b < 3)
-    {
-        Console.Write($"Третьей цифры нет");
-    }
-    else
-    {
-        int c = 1;
-        for (int i = b; i > 3; i--)
-        {
-            c = c * 10;
-        }
-
-        result = (a / c) % 10;
-    }
-return result;
+    int digit2 = number % 100 / 10;
+    int result = digit2;
 }
+int randomNumber = GetNumberFromRange(100,999);
+int numberSecond = digitSecond(randomNumber);
+Console.WriteLine($"Вторая цифра {numberSecond} числа {randomNumber}");
