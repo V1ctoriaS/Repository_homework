@@ -1,0 +1,15 @@
+/Users/viktoriasyceva/Documents/Git_edication_homework/home_work_third2/bin/Debug/net7.0/home_work_third2
+/Users/viktoriasyceva/Documents/Git_edication_homework/home_work_third2/bin/Debug/net7.0/home_work_third2.deps.json
+/Users/viktoriasyceva/Documents/Git_edication_homework/home_work_third2/bin/Debug/net7.0/home_work_third2.runtimeconfig.json
+/Users/viktoriasyceva/Documents/Git_edication_homework/home_work_third2/bin/Debug/net7.0/home_work_third2.dll
+/Users/viktoriasyceva/Documents/Git_edication_homework/home_work_third2/bin/Debug/net7.0/home_work_third2.pdb
+/Users/viktoriasyceva/Documents/Git_edication_homework/home_work_third2/obj/Debug/net7.0/home_work_third2.csproj.AssemblyReference.cache
+/Users/viktoriasyceva/Documents/Git_edication_homework/home_work_third2/obj/Debug/net7.0/home_work_third2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktoriasyceva/Documents/Git_edication_homework/home_work_third2/obj/Debug/net7.0/home_work_third2.AssemblyInfoInputs.cache
+/Users/viktoriasyceva/Documents/Git_edication_homework/home_work_third2/obj/Debug/net7.0/home_work_third2.AssemblyInfo.cs
+/Users/viktoriasyceva/Documents/Git_edication_homework/home_work_third2/obj/Debug/net7.0/home_work_third2.csproj.CoreCompileInputs.cache
+/Users/viktoriasyceva/Documents/Git_edication_homework/home_work_third2/obj/Debug/net7.0/home_work_third2.dll
+/Users/viktoriasyceva/Documents/Git_edication_homework/home_work_third2/obj/Debug/net7.0/refint/home_work_third2.dll
+/Users/viktoriasyceva/Documents/Git_edication_homework/home_work_third2/obj/Debug/net7.0/home_work_third2.pdb
+/Users/viktoriasyceva/Documents/Git_edication_homework/home_work_third2/obj/Debug/net7.0/home_work_third2.genruntimeconfig.cache
+/Users/viktoriasyceva/Documents/Git_edication_homework/home_work_third2/obj/Debug/net7.0/ref/home_work_third2.dll
