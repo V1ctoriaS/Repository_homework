@@ -9,7 +9,8 @@ int digitSecond(int number)
 {
     int digit2 = number % 100 / 10;
     int result = digit2;
+    return result;
 }
 int randomNumber = GetNumberFromRange(100,999);
 int numberSecond = digitSecond(randomNumber);
-Console.WriteLine($"Вторая цифра {numberSecond} числа {randomNumber}");
+Console.WriteLine($"Вторая цифра числа {randomNumber} - {numberSecond}");
