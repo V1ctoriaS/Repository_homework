@@ -1,6 +1,12 @@
 ﻿// Напишите программу, которая на вход принимает число и выдает, является ли число четным или нет
-Console.WriteLine("Введите число:");
-num1 = Convert.ToInt32(Console.ReadLine());
+
+int num1 = getUserData("Введите число: ");
+int getUserData(string message)
+{
+    Console.WriteLine(message);
+    int userData = int.Parse(Console.ReadLine()!);
+    return userData;
+}
 
 if (num1 % 2 == 1)
 {
@@ -8,5 +14,5 @@ if (num1 % 2 == 1)
 }
 else
 {
-    Console.WriteLine("Число " + num1 + "является: ЧЁТНЫМ");
+    Console.WriteLine("Число " + num1 + " является: ЧЁТНЫМ");
 }
