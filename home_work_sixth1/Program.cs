@@ -8,7 +8,6 @@ int getUserData(string message)
     int userData = int.Parse(Console.ReadLine()!);
     return userData;
 }
-
 string ArrayOfNumbers (int number)
 {
     int i = 0;
@@ -32,10 +31,9 @@ string ArrayOfNumbers (int number)
             result = ($"{result} {num} ");
         }
     }
-    result = result = ($"{result} = {sum}");
+    result = result = ($"{result} -> {sum}");
     return result;
 }
-
 
 int number = getUserData("Введите желаемое количество чисел");
 string res = ArrayOfNumbers(number);
